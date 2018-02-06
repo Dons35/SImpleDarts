@@ -1,0 +1,9 @@
+D:\Visual Studio 2017\source\repos\SimpleDarts\Darts\bin\Debug\netstandard2.0\Darts.deps.json
+D:\Visual Studio 2017\source\repos\SimpleDarts\Darts\bin\Debug\netstandard2.0\Darts.dll
+D:\Visual Studio 2017\source\repos\SimpleDarts\Darts\bin\Debug\netstandard2.0\Darts.pdb
+D:\Visual Studio 2017\source\repos\SimpleDarts\Darts\obj\Debug\netstandard2.0\Darts.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\source\repos\SimpleDarts\Darts\obj\Debug\netstandard2.0\Darts.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\source\repos\SimpleDarts\Darts\obj\Debug\netstandard2.0\Darts.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\source\repos\SimpleDarts\Darts\obj\Debug\netstandard2.0\Darts.AssemblyInfo.cs
+D:\Visual Studio 2017\source\repos\SimpleDarts\Darts\obj\Debug\netstandard2.0\Darts.dll
+D:\Visual Studio 2017\source\repos\SimpleDarts\Darts\obj\Debug\netstandard2.0\Darts.pdb
